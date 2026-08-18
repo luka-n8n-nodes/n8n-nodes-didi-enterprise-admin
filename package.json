@@ -1,6 +1,6 @@
 {
 	"name": "@luka-cat-mimi/n8n-nodes-didi-enterprise-admin",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "滴滴企业版管理后台 N8N 节点，支持部门/项目与员工管理",
 	"keywords": [
 		"n8n",
